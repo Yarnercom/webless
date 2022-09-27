@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 255, 224);
+    margin: 20px;
+}
+.title{
+    text-align: center;
+    font-size: 17px;
+    color: crimson;
+}
+
+
+.subtitle{
+    font-size: 13px;
+    text-align: left;
+    color: black;
+}
+
+
+section span{
+    font-style: italic;
+}
+
+p{
+    font-size: 13px;
+}
